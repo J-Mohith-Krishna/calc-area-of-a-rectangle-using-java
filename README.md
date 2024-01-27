@@ -1,6 +1,6 @@
 # calc-area-of-a-rectangle-using-java
 ## Description-
-    The "Rectangle Area Calculator" Java program takes user input for the length and width of a rectangle, calculates its area, and displays the result. It showcases basic user interaction and method usage for a straightforward mathematical computation.
+The "Rectangle Area Calculator" Java program takes user input for the length and width of a rectangle, calculates its area, and displays the result. It showcases basic user interaction and method usage for a straightforward mathematical computation.
 ## Explanation-
     1. We use the Scanner class to get input from the user.
     2. We prompt the user to enter the length and width of the rectangle.
